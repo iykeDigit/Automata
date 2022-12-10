@@ -1,0 +1,85 @@
+[
+  {
+
+    "ExpenseFormDetailsId": "8e11535f-8c94-4439-a874-c7de83269f77",
+    "ExpenseDate": "02/9/2021 3:01:24 PM",
+    "ExpenseAmount": 30000.00,
+    "PaidByCompany": false,
+    "ExpenseNote": "50litres of Petrol",
+    "Attachments": "..\\..\\DecagonLabs\\BizinCLOUD\\receipt.jpg",
+    "ApprovedNote": null,
+    "ExpenseFormId": "29e03a60-5033-4887-ba02-b4fda2ee7df6",
+    "ExpenseCategoryId": "81e5f2cc-898c-4c25-aaee-68c7abc5074a",
+    "ExpenseStatusId": "61b20d6c4912a1aef1c176b8"
+  },
+
+  {
+    "ExpenseFormId": "29e03a60-5033-4887-ba02-b4fda2ee7df6",
+    "ExpenseFormDetailsId": "43de6fa6-2f04-4ac2-b7e1-59ea0a0e07fd",
+    "ExpenseStatusId": "61b20d6c4912a1aef1c176b8",
+    "ExpenseCategoryId": "81e5f2cc-898c-4c25-aaee-68c7abc5074a",
+    "ExpenseDate": "02/9/2021 5:34:24 PM",
+    "ExpenseAmount": 25500.50,
+    "PaidByCompany": false,
+    "ExpenseNote": "Generator Repair",
+    "Attachments": "..\\..\\DecagonLabs\\BizinCLOUD\\gen_receipt.jpg",
+    "ApprovedNote": null
+
+  },
+
+
+  {
+    "ExpenseFormId": "39e03a61-5887-5433-bg02-b8fda1ee7df4",
+    "ExpenseFormDetailsId": "8e11535f-4439-8c94-a874-c7de83269f77",
+    "ExpenseDate": "7/9/2021 5:01:24 PM",
+    "ExpenseCategoryId": "71e5f2cc-aaee-898a-4c25-68c7abc5074a",
+    "ExpenseAmount": 120000,
+    "ExpenseStatusId": "61b20d9d3dc053f85370cf6b",
+    "PaidByCompany": false,
+    "ExpenseNote": "Twin Sofa",
+    "Attachments": "..\\..\\DecagonLabs\\BizinCLOUD\\couch.jpg",
+    "ApprovedNote": null
+  },
+  {
+    "ExpenseFormId": "39e03a61-5887-5433-bg02-b8fda1ee7df4",
+    "ExpenseFormDetailsId": "59ea0a0e-4ac2-2f04-b7e1-43de6fa607fd",
+    "ExpenseCategoryId": "71e5f2cc-aaee-898a-4c25-68c7abc5074a",
+    "ExpenseStatusId": "61b20d9d3dc053f85370cf6b",
+    "ExpenseDate": "10/5/2021 1:01:24 PM",
+    "ExpenseAmount": 130000,
+    "PaidByCompany": false,
+    "ExpenseNote": "New Cummins Diesel Generator",
+    "Attachments": "..\\..\\DecagonLabs\\BizinCLOUD\\cummins_ksv58.jpg",
+    "ApprovedNote": null
+
+
+  },
+  {
+    "ExpenseFormId": "99e03a60-7887-5033-ba82-b4fda2hh7d36",
+    "ExpenseFormDetailsId": "055cc1e4-6cda-4200-b04a-87677be4cd14",
+    "ExpenseDate": "10/11/2020 12:11:24 PM",
+    "ExpenseCategoryId": "t51473dd-5bed-7627-9f83-09g32d926e945",
+    "ExpenseAmount": 230000,
+    "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+    "PaidByCompany": true,
+    "ExpenseNote": "Flat screen television",
+    "Attachments": "..\\..\\DecagonLabs\\BizinCLOUD\\lgTv.jpg",
+    "ApprovedNote": null
+
+  },
+
+  {
+    "ExpenseFormId": "99e03a60-7887-5033-ba82-b4fda2hh7d36",
+    "ExpenseFormDetailsId": "38e1155f-4439-a874-8c94-c7d69f7e8327",
+    "ExpenseDate": "10/11/2020 12:11:24 PM",
+    "ExpenseCategoryId": "d51473dd-9bed-4227-9f83-0f82d926e945",
+    "ExpenseAmount": 20000,
+    "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+    "PaidByCompany": false,
+    "ExpenseNote": "Transport fare",
+    "Attachments": "..\\..\\DecagonLabs\\BizinCLOUD\\screenshort.jpg",
+    "ApprovedNote": null
+
+  }
+
+]

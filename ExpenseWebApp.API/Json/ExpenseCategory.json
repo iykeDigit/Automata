@@ -1,0 +1,18 @@
+[
+  {
+    "ExpenseCategoryId": "81e5f2cc-898c-4c25-aaee-68c7abc5074a",
+    "ExpenseCategoryName": "Maintenance & Repairs"
+  },
+  {
+    "ExpenseCategoryId": "71e5f2cc-aaee-898a-4c25-68c7abc5074a",
+    "ExpenseCategoryName": "Facility"
+  },
+  {
+    "ExpenseCategoryId": "d51473dd-9bed-4227-9f83-0f82d926e945",
+    "ExpenseCategoryName": "Miscellaneous"
+  },
+  {
+    "ExpenseCategoryId": "t51473dd-5bed-7627-9f83-09g32d926e945",
+    "ExpenseCategoryName": "Postage & Shipping"
+  }
+]

@@ -1,0 +1,324 @@
+[
+  {
+    "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f77",
+    "AdvanceDescription": "Approved",
+    "ExpenseFormId": "29e03a60-5033-4887-ba02-b4fda2ee7df6",
+    "UserId": 90,
+    "AdvanceFormNumber": "CAD-5878013158",
+    "AdvanceAmount": 230000,
+    "AdvancePurpose": "Delivery Scooter",
+    "AdvanceNote": "Required amount for the purchase of delivery bike as agreed in the last meeting",
+    "AdvanceDate": "1/4/2021 3:01:24 PM",
+    "ApprovedBy": "Chima Obi",
+    "ApprovedNote": "Confirmed by me, Chima Obi",
+    "DisbursementDate": "1/4/2021 4:01:00 PM",
+    "DisbursedBy": "Angelo Akhuwa",
+    "CompanyId": 3,
+    "PaidFromId": "d51473dd-9bed-4227-9f83-0f82d926e945",
+    "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+    "AdvanceRetirement": [
+      {
+        "AdvanceRetirementId": "628f7284-1350-42fd-8eb9-ec0a3407cbf2",
+        "ExpenseFormId": "29e03a60-5033-4887-ba02-b4fda2ee7df6",
+        "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f77",
+        "RetiredAmountDiff": -20000,
+        "UserId": 90,
+        "RetirementNumber": "CAR-3157808581",
+        "CompanyId": 3,
+        "PaidBy": null,
+        "ExpenseStatusId": "61b20d9d3dc053f85370cf6b",
+        "PaidFrom": null
+      }
+    ]
+  },
+
+  {
+    "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f78",
+    "AdvanceDescription": "Approved",
+    "ExpenseFormId": "39e03a61-5887-5433-bg02-b8fda1ee7df4",
+    "UserId": 90,
+    "AdvanceFormNumber": "CAD-5878013160",
+    "AdvanceAmount": 230000,
+    "AdvancePurpose": "Office Renovation",
+    "AdvanceNote": "Required amount for the purchase of office renovation",
+    "AdvanceDate": "1/4/2021 3:01:24 PM",
+    "ApprovedBy": "Chima Obi",
+    "ApprovedNote": "Confirmed by me, Chima Obi",
+    "DisbursementDate": "1/4/2021 4:01:00 PM",
+    "DisbursedBy": "Angelo Akhuwa",
+    "CompanyId": 3,
+    "PaidFromId": "u51473dd-8bed-4527-9f83-0f82d026e925",
+    "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+    "AdvanceRetirement": [
+      {
+        "AdvanceRetirementId": "628f7284-1350-42fd-8eb9-ec0a3407cbf3",
+        "ExpenseFormId": "39e03a61-5887-5433-bg02-b8fda1ee7df4",
+        "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f78",
+        "RetiredAmountDiff": -20000,
+        "UserId": 90,
+        "RetirementNumber": "CAR-3157808582",
+        "CompanyId": 3,
+        "PaidBy": null,
+        "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+        "PaidFrom": null
+      }
+    ]
+  },
+  {
+    "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f79",
+    "AdvanceDescription": "Approved",
+    "ExpenseFormId": "99e03a60-7887-5033-ba82-b4fda2hh7d36",
+    "UserId": 90,
+    "AdvanceFormNumber": "CAD-5878013161",
+    "AdvanceAmount": 24000,
+    "AdvancePurpose": "Stationeries",
+    "AdvanceNote": "Required amount for the purchase of office stationeries",
+    "AdvanceDate": "1/4/2021 3:01:24 PM",
+    "ApprovedBy": "Chima Obi",
+    "ApprovedNote": "Confirmed by me, Chima Obi",
+    "DisbursementDate": "1/4/2021 4:01:00 PM",
+    "DisbursedBy": "Angelo Akhuwa",
+    "CompanyId": 3,
+    "PaidFromId": "u51473dd-8bed-4527-9f83-0f82d026e925",
+    "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+    "AdvanceRetirement": [
+      {
+        "AdvanceRetirementId": "628f7284-1350-42fd-8eb9-ec0a3407cbf4",
+        "ExpenseFormId": "99e03a60-7887-5033-ba82-b4fda2hh7d36",
+        "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f79",
+        "RetiredAmountDiff": -2000,
+        "UserId": 90,
+        "RetirementNumber": "CAR-3157808583",
+        "CompanyId": 3,
+        "PaidBy": null,
+        "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+        "PaidFrom": null
+      }
+    ]
+  },
+  {
+    "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f80",
+    "AdvanceDescription": "Approved",
+    "ExpenseFormId": "99e03a60-7887-5033-ba82-b4fda2hh7d37",
+    "UserId": 90,
+    "AdvanceFormNumber": "CAD-5878013161",
+    "AdvanceAmount": 5000,
+    "AdvancePurpose": "Office Repairs",
+    "AdvanceNote": "Required amount for office repairs",
+    "AdvanceDate": "1/4/2021 3:01:24 PM",
+    "ApprovedBy": "Chima Obi",
+    "ApprovedNote": "Confirmed by me, Chima Obi",
+    "DisbursementDate": "1/4/2021 4:01:00 PM",
+    "DisbursedBy": "Angelo Akhuwa",
+    "CompanyId": 3,
+    "PaidFromId": "u51473dd-8bed-4527-9f83-0f82d026e925",
+    "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+    "AdvanceRetirement": [
+      {
+        "AdvanceRetirementId": "628f7284-1350-42fd-8eb9-ec0a3407cbf5",
+        "ExpenseFormId": "99e03a60-7887-5033-ba82-b4fda2hh7d37",
+        "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f80",
+        "RetiredAmountDiff": -500,
+        "UserId": 90,
+        "RetirementNumber": "CAR-3157808584",
+        "CompanyId": 3,
+        "PaidBy": null,
+        "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+        "PaidFrom": null
+      }
+    ]
+  },
+  {
+    "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f81",
+    "AdvanceDescription": "Approved",
+    "ExpenseFormId": "99e03a60-7887-5033-ba82-b4fda2hh7d38",
+    "UserId": 90,
+    "AdvanceFormNumber": "CAD-5878013162",
+    "AdvanceAmount": 500000,
+    "AdvancePurpose": "AGM",
+    "AdvanceNote": "Required amount for AGM",
+    "AdvanceDate": "1/4/2021 3:01:24 PM",
+    "ApprovedBy": "Chima Obi",
+    "ApprovedNote": "Confirmed by me, Chima Obi",
+    "DisbursementDate": "1/4/2021 4:01:00 PM",
+    "DisbursedBy": "Angelo Akhuwa",
+    "CompanyId": 3,
+    "PaidFromId": "d21473dd-9nsd-4227-9f73-0f81d926j945",
+    "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+    "AdvanceRetirement": [
+      {
+        "AdvanceRetirementId": "628f7284-1350-42fd-8eb9-ec0a3407cbf6",
+        "ExpenseFormId": "99e03a60-7887-5033-ba82-b4fda2hh7d38",
+        "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f81",
+        "RetiredAmountDiff": -3000,
+        "UserId": 90,
+        "RetirementNumber": "CAR-3157808585",
+        "CompanyId": 3,
+        "PaidBy": null,
+        "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+        "PaidFrom": null
+      }
+    ]
+  },
+  {
+    "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f82",
+    "AdvanceDescription": "Approved",
+    "ExpenseFormId": "99e03a60-7887-5033-ba82-b4fda2hh7d39",
+    "UserId": 90,
+    "AdvanceFormNumber": "CAD-5878013163",
+    "AdvanceAmount": 200000,
+    "AdvancePurpose": "Offsite Training",
+    "AdvanceNote": "Offsite Training Expenses",
+    "AdvanceDate": "1/4/2021 3:01:24 PM",
+    "ApprovedBy": "Chima Obi",
+    "ApprovedNote": "Confirmed by me, Chima Obi",
+    "DisbursementDate": "1/4/2021 4:01:00 PM",
+    "DisbursedBy": "Angelo Akhuwa",
+    "CompanyId": 3,
+    "PaidFromId": "d21473dd-9nsd-4227-9f73-0f81d926j945",
+    "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+    "AdvanceRetirement": [
+      {
+        "AdvanceRetirementId": "628f7284-1350-42fd-8eb9-ec0a3407cbf7",
+        "ExpenseFormId": "99e03a60-7887-5033-ba82-b4fda2hh7d39",
+        "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f82",
+        "RetiredAmountDiff": -10000,
+        "UserId": 90,
+        "RetirementNumber": "CAR-3157808586",
+        "CompanyId": 3,
+        "PaidBy": null,
+        "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+        "PaidFrom": null
+      }
+    ]
+  },
+  {
+    "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f83",
+    "AdvanceDescription": "Approved",
+    "ExpenseFormId": "99e03a60-7887-5033-ba82-b4fda2hh7d40",
+    "UserId": 90,
+    "AdvanceFormNumber": "CAD-5878013164",
+    "AdvanceAmount": 10000,
+    "AdvancePurpose": "Electricity",
+    "AdvanceNote": "Monthly Electricity Bill",
+    "AdvanceDate": "1/4/2021 3:01:24 PM",
+    "ApprovedBy": "Chima Obi",
+    "ApprovedNote": "Confirmed by me, Chima Obi",
+    "DisbursementDate": "1/4/2021 4:01:00 PM",
+    "DisbursedBy": "Angelo Akhuwa",
+    "CompanyId": 3,
+    "PaidFromId": "d21473dd-9nsd-4227-9f73-0f81d926j945",
+    "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+    "AdvanceRetirement": [
+      {
+        "AdvanceRetirementId": "628f7284-1350-42fd-8eb9-ec0a3407cbf9",
+        "ExpenseFormId": "99e03a60-7887-5033-ba82-b4fda2hh7d40",
+        "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f83",
+        "RetiredAmountDiff": -1000,
+        "UserId": 90,
+        "RetirementNumber": "CAR-3157808587",
+        "CompanyId": 3,
+        "PaidBy": null,
+        "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+        "PaidFrom": null
+      }
+    ]
+  },
+  {
+    "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f84",
+    "AdvanceDescription": "Approved",
+    "ExpenseFormId": "99e03a60-7887-5033-ba82-b4fda2hh7d41",
+    "UserId": 90,
+    "AdvanceFormNumber": "CAD-5878013165",
+    "AdvanceAmount": 50000,
+    "AdvancePurpose": "Car Servicing",
+    "AdvanceNote": "Servicing of the pool cars",
+    "AdvanceDate": "1/4/2021 3:01:24 PM",
+    "ApprovedBy": "Chima Obi",
+    "ApprovedNote": "Confirmed by me, Chima Obi",
+    "DisbursementDate": "1/4/2021 4:01:00 PM",
+    "DisbursedBy": "Angelo Akhuwa",
+    "CompanyId": 3,
+    "PaidFromId": "d21473dd-9nsd-4227-9f73-0f81d926j945",
+    "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+    "AdvanceRetirement": [
+      {
+        "AdvanceRetirementId": "628f7284-1350-42fd-8eb9-ec0a3407cbf10",
+        "ExpenseFormId": "99e03a60-7887-5033-ba82-b4fda2hh7d41",
+        "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f84",
+        "RetiredAmountDiff": -4000,
+        "UserId": 90,
+        "RetirementNumber": "CAR-3157808588",
+        "CompanyId": 3,
+        "PaidBy": null,
+        "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+        "PaidFrom": null
+      }
+    ]
+  },
+  {
+    "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f85",
+    "AdvanceDescription": "Approved",
+    "ExpenseFormId": "99e03a60-7887-5033-ba82-b4fda2hh7d42",
+    "UserId": 90,
+    "AdvanceFormNumber": "CAD-5878013166",
+    "AdvanceAmount": 60000,
+    "AdvancePurpose": "Water treatment",
+    "AdvanceNote": "Treatment of the water plant/borehole",
+    "AdvanceDate": "1/4/2021 3:01:24 PM",
+    "ApprovedBy": "Chima Obi",
+    "ApprovedNote": "Confirmed by me, Chima Obi",
+    "DisbursementDate": "1/4/2021 4:01:00 PM",
+    "DisbursedBy": "Angelo Akhuwa",
+    "CompanyId": 3,
+    "PaidFromId": "d21473dd-9nsd-4227-9f73-0f81d926j945",
+    "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+    "AdvanceRetirement": [
+      {
+        "AdvanceRetirementId": "628f7284-1350-42fd-8eb9-ec0a3407cbf11",
+        "ExpenseFormId": "99e03a60-7887-5033-ba82-b4fda2hh7d42",
+        "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f85",
+        "RetiredAmountDiff": -7000,
+        "UserId": 90,
+        "RetirementNumber": "CAR-3157808589",
+        "CompanyId": 3,
+        "PaidBy": null,
+        "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+        "PaidFrom": null
+      }
+    ]
+  },
+  {
+    "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f86",
+    "AdvanceDescription": "Approved",
+    "ExpenseFormId": "99e03a60-7887-5033-ba82-b4fda2hh7d43",
+    "UserId": 90,
+    "AdvanceFormNumber": "CAD-5878013167",
+    "AdvanceAmount": 70000,
+    "AdvancePurpose": "Return ticket",
+    "AdvanceNote": "Return ticket for the M.D.",
+    "AdvanceDate": "1/4/2021 3:01:24 PM",
+    "ApprovedBy": "Chima Obi",
+    "ApprovedNote": "Confirmed by me, Chima Obi",
+    "DisbursementDate": "1/4/2021 4:01:00 PM",
+    "DisbursedBy": "Angelo Akhuwa",
+    "CompanyId": 3,
+    "PaidFromId": "d21473dd-9nsd-4227-9f73-0f81d926j945",
+    "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+    "AdvanceRetirement": [
+      {
+        "AdvanceRetirementId": "628f7284-1350-42fd-8eb9-ec0a3407cbf12",
+        "ExpenseFormId": "99e03a60-7887-5033-ba82-b4fda2hh7d43",
+        "AdvanceFormId": "8326c7de-8c94-4439-a874-8e11535f9f86",
+        "RetiredAmountDiff": -7000,
+        "UserId": 90,
+        "RetirementNumber": "CAR-3157808590",
+        "CompanyId": 3,
+        "PaidBy": null,
+        "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+        "PaidFrom": null
+      }
+    ]
+  }
+
+]

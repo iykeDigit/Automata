@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="CloudinaryDotNet" Version="1.15.2" />
+    <PackageReference Include="MailKit" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExpenseWebApp.Data\ExpenseWebApp.Data.csproj" />
+    <ProjectReference Include="..\ExpenseWebApp.Models\ExpenseWebApp.Models.csproj" />
+    <ProjectReference Include="..\ExpenseWebApp.Utilities\ExpenseWebApp.Utilities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExpenseWebApp.Data\ExpenseWebApp.Data.csproj" />
+    <ProjectReference Include="..\ExpenseWebApp.Dtos\ExpenseWebApp.Dtos.csproj" />
+    <ProjectReference Include="..\ExpenseWebApp.Utilities\ExpenseWebApp.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

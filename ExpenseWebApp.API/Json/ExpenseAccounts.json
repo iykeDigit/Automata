@@ -1,0 +1,32 @@
+[
+  {
+    "ExpenseAccountId": "4e477b4f-a6cc-4f07-9f55-8668a1d6fe86",
+    "ExpenseAccountName": "Automata Group",
+    "ExpenseAccountNumber": "1112223334",
+    "CompanyId": 1
+  },
+  {
+    "ExpenseAccountId": "a30429d0-bf51-454f-97c6-d4f86b7861dc",
+    "ExpenseAccountName": "Automata Associates",
+    "ExpenseAccountNumber": "2223334445",
+    "CompanyId": 2
+  },
+  {
+    "ExpenseAccountId": "75bd96ba-1b77-4ab0-b808-8633ab878b71",
+    "ExpenseAccountName": "Automata Incorporated",
+    "ExpenseAccountNumber": "3334445556",
+    "CompanyId": 3
+  },
+  {
+    "ExpenseAccountId": "07294270-8f44-4949-a567-a16c87a26728",
+    "ExpenseAccountName": "Automata Plc",
+    "ExpenseAccountNumber": "4445556667",
+    "CompanyId": 1
+  },
+  {
+    "ExpenseAccountId": "a5850f8c-d3c9-4a19-82cd-75af47e0edaf",
+    "ExpenseAccountName": "Automata Nigeria",
+    "ExpenseAccountNumber": "5556667778",
+    "CompanyId": 2
+  }
+]

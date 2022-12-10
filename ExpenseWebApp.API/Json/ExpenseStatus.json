@@ -1,0 +1,47 @@
+[
+  {
+    "ExpenseStatusId": "61b20d6c4912a1aef1c176b8",
+    "Description": "Disbursed"
+  },
+  {
+    "ExpenseStatusId": "61b20d9d3dc053f85370cf6b",
+    "Description": "Pending Approval"
+  },
+  {
+    "ExpenseStatusId": "95b20d9d3dc053f85370cf6b",
+    "Description": "Approved"
+  },
+
+  {
+    "ExpenseStatusId": "12acnd9d3dc053f85370cfc5",
+    "Description": "Cancelled"
+  },
+
+  {
+    "ExpenseStatusId": "453acnd9acvg353f85370cf6",
+    "Description": "Further info required"
+  },
+
+  {
+    "ExpenseStatusId": "6710cnd9ayem353f85370cff",
+    "Description": "New request"
+  },
+  {
+    "ExpenseStatusId": "8763cnd9ayem7683f85370ch",
+    "Description": "Rejected"
+  },
+  {
+    "ExpenseStatusId": "b5439dncmyae7683358f70th",
+    "Description": "To be submitted"
+  }
+
+
+]
+
+
+
+
+
+
+
+
